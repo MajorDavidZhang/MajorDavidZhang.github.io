@@ -13,4 +13,4 @@ I received my Master of Science in Computer Science from National University of 
 
 Latest News
 ======
--Our work [*Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning*](https://arxiv.org/abs/2402.11816) is accepted by ECCV2024! The follow-up work is on the way!
+-Our work [*Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning*](https://arxiv.org/abs/2402.11816) is accepted by **ECCV2024**! The follow-up work is on the way!
