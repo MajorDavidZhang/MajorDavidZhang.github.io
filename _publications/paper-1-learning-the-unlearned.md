@@ -6,7 +6,7 @@ permalink: /publication/paper-1-learning-the-unlearned
 date: 2024-07-10
 venue: 'ECCV 2024'
 authors:
-paperurl: 'http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned.pdf'
+#paperurl: 'http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned.pdf'
 citation: #'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 Authors: **Jihai Zhang**, Xiang Lan, Xiaoye Qu, Yu Cheng, Mengling Feng, Bryan Hooi
@@ -20,3 +20,4 @@ Our comprehensive evaluation demonstrates MCL's effectiveness and superiority ac
 Remarkably, in tasks where the original CLIP model has shown limitations, MCL dramatically enhances performance, with improvements up to threefold on specific attributes in the recently proposed MMVP benchmark.
 
 [[Code]](https://github.com/MajorDavidZhang/MCL)
+[[PDF]](http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned.pdf)
