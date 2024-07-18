@@ -2,8 +2,8 @@
 title: "Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning"
 collection: publications
 permalink: /publication/paper-1-learning-the-unlearned
-excerpt: #'This paper is about the number 1. The number 2 is left for future work.'
-date: #2024-07
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2024-07-10
 venue: 'ECCV 2024'
 authors:
 paperurl: 'http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned.pdf'
