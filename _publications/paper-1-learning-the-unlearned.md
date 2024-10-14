@@ -21,3 +21,4 @@ Remarkably, in tasks where the original CLIP model has shown limitations, MCL dr
 
 [[Code]](https://github.com/MajorDavidZhang/MCL)
 [[PDF]](http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned.pdf)
+[[Poster]](http://majordavidzhang.github.io/files/paper-1-learning-the-unlearned-poster.pdf)
