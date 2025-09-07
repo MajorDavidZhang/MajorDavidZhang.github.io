@@ -16,11 +16,12 @@ Education
 * Ph.D in Computer Science & Engineering, The Chinese University of Hong Kong, 2024-2028 (expected)
 
 
-Research Interest
+Research Interests
 ======
 * Multimodal Large Language Models
 * Mixture of Experts
 * Self-supervised Learning, Contrastive Learning
+* Game Video Generation
 
 
 Internship
@@ -89,3 +90,6 @@ Academic Service
 ======
 **Conference refereeing:**
 - NeurIPS 2024
+- NeurIPS 2025
+- ARR May 2025
+- ICLR 2026
