@@ -22,7 +22,7 @@ A long-horizon interactive world model with persistent memory. I led the design 
 
 **BMVC 2026.** We systematically study how visual understanding and generation benefit each other in unified VLMs, and identify input-output visual-space alignment as a key factor in cross-task knowledge transfer.
 
-### Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models
+### [Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models](/publication/paper-9-vrc)
 
 **AAAI 2026.** We compress visual representation sequences by 4x, achieving a 10x inference speedup while reducing memory consumption and improving autoregressive video generation quality.
 

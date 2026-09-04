@@ -9,85 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)](/files/Jihai_Zhang_CV.pdf)
+
 Education
 ======
-* B.S. in Computer Science & Technology, Shanghai Jiao Tong University, 2017-2021
+
+* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2024-2028 (expected)
 * M.S. in Computer Science, National University of Singapore, 2021-2024
-* Ph.D in Computer Science & Engineering, The Chinese University of Hong Kong, 2024-2028 (expected)
+* B.S. in Computer Science, Shanghai Jiao Tong University, 2017-2021 (Graduated with Honors)
 
 
 Research Interests
 ======
+
 * Multimodal Large Language Models
-* Mixture of Experts
-* Self-supervised Learning, Contrastive Learning
-* Game Video Generation
+* Unified Vision-Language Modeling
+* World Models and Action Models
 
-
-Internship
-======
-* Tencent
-  * User Behavior Analyst
-  * May 2021 - Jul 2021
-  * Enhanced the efficiency of the existing Neural Temporal Point Process-based user behavior analysis model 
-
-* Shanghai AI Laboratory
-  * Research Assistant
-  * Jan 2024 - Jul 2024
-  * Research on multimodal large language model
 
 Research Experience
 ======
-* April 2019 - July 2021
-  * ThinkLab, SJTU
-  * Focus on Time Series Forecasting and Temporal Point Process
 
-* Jun 2022 - July 2023
-  * National University of Singapore
-  * Focus on Self-supervised Learning, especially Contrastive Learning
+**Skywork AI - Research Intern**
+*May 2026 - Present*
 
-* Jan 2023 - July 2024
-  * Shanghai AI Laboratory
-  * Focus on Multimodal Large Language Models
-  
+* Led the memory module design for Matrix Game 3.5, including dynamic object filtering and object-token conditioning for long-horizon scene and protagonist consistency.
+* Developed a video-action Mixture-of-Transformers architecture with autoregressive causal masking for interactive policy execution.
+* Leading Matrix Game Next, a neural rendering system for real-time game visual enhancement while preserving gameplay-relevant structure and motion.
+
+**Tencent - Research Intern**
+*July 2025 - January 2026*
+
+* Developed a controllable game video generation framework that separates semantic layout prediction from pixel-level rendering.
+* Designed a global memory bank to maintain persistent world state and long-term spatiotemporal consistency.
+
+**Microsoft - Research Intern**
+*October 2024 - June 2025*
+
+* Studied cross-task generalization between understanding and generation in unified VLMs, identifying visual-space alignment as a key factor in knowledge transfer.
 
 
 Publications
 ======
+
   <ul>{% for post in site.publications reversed%}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
-
-<!-- Talks
-======
-  <ul>{% for post in site.talks%}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
-
-
 
 Academic Service
 ======
+
 **Conference refereeing:**
 - NeurIPS 2024
 - NeurIPS 2025
