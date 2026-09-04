@@ -7,18 +7,32 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science and Engineering at The Chinese University of Hong Kong, under the supervision of Dr. [Yu Cheng](https://ych133.github.io). My current research focuses on Multimodal Large Language Models and Game Video Generation. 
+I am a PhD student in Computer Science and Engineering at The Chinese University of Hong Kong, advised by Prof. [Yu Cheng](https://ych133.github.io). My research focuses on multimodal foundation models, particularly unified vision-language models and world/action models.
 
-I received my Master of Science in Computer Science from National University of Singapore in 2024, where I was supervised by Dr. [Bryan Hooi](https://bhooi.github.io). I obtained my Bachelor’s degree from Shanghai Jiao Tong University in 2021, under the supervision of Dr. [Junchi Yan](https://thinklab.sjtu.edu.cn/).
+Before joining CUHK, I received my M.S. in Computer Science from the National University of Singapore and my B.S. in Computer Science from Shanghai Jiao Tong University, where I was advised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/).
 
-Latest News
+Selected Research
 ======
-- Our work *CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling* is accepted by **ENMLP2025**!
 
-- Our recent work on Unified Vision Language Model is on arxiv now! [*Are Unified Vision-Language Models Necessary: Generalization Across Understanding and Generation*](https://arxiv.org/abs/2505.23043). In this work we systematically study the generalization across understanding and generation in unified VLMs on a synthetic dataset. We validate the necessity of unification of generation and understanding: these two tasks can benefit each other!
+### [Matrix Game 3.5](https://matrix-game-v3-5.github.io)
 
-- The follow-up work of *Learning the Unlearned* is on arxiv now! [*CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling*](https://arxiv.org/html/2409.19291v2). In thie work we propose a new upcycling method for CLIP based on MCL, which is simple and effective.
+A long-horizon interactive world model with persistent memory. I led the design and implementation of its memory module, including dynamic object filtering and object-token conditioning for scene and protagonist consistency.
 
-- Our work [*SURf: Teaching Large Vision-Language Models to Selectively Utilize Retrieved Information*](https://arxiv.org/abs/2409.14083) is accepted by **EMNLP**!
+### [Cross-Task Generalization Between Understanding and Generation in Unified Vision-Language Models](/publication/paper-8-unified-vlm)
 
-- Our work [*Learning the Unlearned: Mitigating Feature Suppression in Contrastive Learning*](https://arxiv.org/abs/2402.11816) is accepted by **ECCV2024**! The follow-up work is on the way!
+**BMVC 2026.** We systematically study how visual understanding and generation benefit each other in unified VLMs, and identify input-output visual-space alignment as a key factor in cross-task knowledge transfer.
+
+### Less Is More: Vision Representation Compression for Efficient Video Generation with Large Language Models
+
+**AAAI 2026.** We compress visual representation sequences by 4x, achieving a 10x inference speedup while reducing memory consumption and improving autoregressive video generation quality.
+
+### [CLIP-MoE: Towards Building Mixture of Experts for CLIP with Diversified Multiplet Upcycling](/publication/paper-7-clip-moe)
+
+**EMNLP 2025.** We upcycle complementary CLIP models into a mixture-of-experts vision encoder with minimal computational overhead, improving performance across downstream MLLM benchmarks.
+
+News
+======
+
+- **2026:** Our work on cross-task generalization between understanding and generation in unified vision-language models was accepted to **BMVC 2026**.
+
+- **2026:** [Matrix Game 3.5](https://matrix-game-v3-5.github.io) was released.
