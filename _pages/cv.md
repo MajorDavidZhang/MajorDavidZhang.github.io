@@ -25,6 +25,7 @@ Research Interests
 * Multimodal Large Language Models
 * Unified Vision-Language Modeling
 * World Models and Action Models
+* Real-Time Neural Rendering
 
 
 Research Experience
@@ -33,9 +34,9 @@ Research Experience
 **Skywork AI - Research Intern**
 *May 2026 - Present*
 
-* Led the memory module design for Matrix Game 3.5, including dynamic object filtering and object-token conditioning for long-horizon scene and protagonist consistency.
+* Led the development of [Matrix-Game 4.0](https://matrix-game-v4-0.github.io/page/), combining executable game engines with autoregressive neural rendering for playable game worlds. The released system enables 480p, 60 FPS gameplay on a single RTX 5090 with 112 ms key-press-to-display latency.
+* Led the memory module design for [Matrix-Game 3.5](https://matrix-game-v3-5.github.io/), including dynamic object filtering and object-token conditioning for long-horizon scene and protagonist consistency.
 * Developed a video-action Mixture-of-Transformers architecture with autoregressive causal masking for interactive policy execution.
-* Leading Matrix Game Next, a neural rendering system for real-time game visual enhancement while preserving gameplay-relevant structure and motion.
 
 **Tencent - Research Intern**
 *July 2025 - January 2026*

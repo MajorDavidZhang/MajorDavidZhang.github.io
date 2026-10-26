@@ -7,14 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science and Engineering at The Chinese University of Hong Kong, advised by Prof. [Yu Cheng](https://ych133.github.io). My research focuses on multimodal foundation models, particularly unified vision-language models and world/action models.
+I am a PhD student in Computer Science and Engineering at The Chinese University of Hong Kong, advised by Prof. [Yu Cheng](https://ych133.github.io). My research focuses on multimodal foundation models, particularly unified vision-language models, world/action models, and real-time neural rendering.
 
 Before joining CUHK, I received my M.S. in Computer Science from the National University of Singapore and my B.S. in Computer Science from Shanghai Jiao Tong University, where I was advised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn/).
 
 Selected Research
 ======
 
-### [Matrix Game 3.5](https://matrix-game-v3-5.github.io)
+### [Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds](https://matrix-game-v4-0.github.io/page/)
+
+I led the development of Matrix-Game 4.0, which combines executable game engines with autoregressive neural rendering to turn low-poly game visuals into detailed, interactive worlds. The system enables **480p, 60 FPS gameplay on a single RTX 5090**, with **112 ms key-press-to-display latency**.
+
+### [Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory](https://matrix-game-v3-5.github.io/)
 
 A long-horizon interactive world model with persistent memory. I led the design and implementation of its memory module, including dynamic object filtering and object-token conditioning for scene and protagonist consistency.
 
@@ -32,6 +36,8 @@ A long-horizon interactive world model with persistent memory. I led the design 
 
 News
 ======
+
+- **October 2026:** We released [Matrix-Game 4.0](https://matrix-game-v4-0.github.io/page/), enabling real-time neural rendering for playable games on consumer GPUs. Code, models, and the technical report are publicly available.
 
 - **2026:** Our work on cross-task generalization between understanding and generation in unified vision-language models was accepted to **BMVC 2026**.
 
